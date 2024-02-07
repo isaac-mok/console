@@ -1,5 +1,17 @@
 # @isaac-m/console
 
+Returns the argument passed into a logging function. For logging arguments a *tiny* bit more easily.
+
+```js
+// With native console
+const arg = 'arg';
+console.log(arg);
+exampleFunction(arg);
+
+// With log
+exampleFunction(log('arg'));
+```
+
 ## Installation
 
 ```sh
