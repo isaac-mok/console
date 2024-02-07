@@ -15,6 +15,14 @@
   ],
   "author": "Isaac Mok <isaac.mok.kx@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaac-mok/console"
+  },
+  "bugs": {
+    "url": "https://github.com/isaac-mok/console/issues"
+  },
+  "homepage": "https://github.com/isaac-mok/console",
   "devDependencies": {
     "@faker-js/faker": "^8.4.0",
     "@rollup/plugin-typescript": "^11.1.6",

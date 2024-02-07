@@ -1,0 +1,9 @@
+node_modules
+src
+coverage
+jest.config.js
+.gitignore
+package-lock.json
+rollup.config.js
+tsconfig.json
+.eslintrc
