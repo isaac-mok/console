@@ -1,0 +1,14 @@
+{
+  "name": "@isaac-m/console",
+  "version": "0.1.0",
+  "description": "Returns data passed into console logging functions",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "Isaac Mok <isaac.mok.kx@gmail.com>",
+  "license": "MIT"
+}
