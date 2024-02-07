@@ -1,0 +1,15 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "target": "ES5",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "module": "ES6",
+    "moduleResolution": "Node",
+    "declaration": true
+  },
+  "include": ["./src"],
+  "exclude": [
+    "**/*.test.ts"
+  ]
+}
