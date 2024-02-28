@@ -1,5 +1,7 @@
 # @isaac-m/console
 
+[![Latest Version on NPM](https://img.shields.io/npm/v/%40isaac-m%2Fconsole.svg?style=flat)](https://www.npmjs.com/package/@isaac-m/console)
+
 Returns the argument passed into a logging function. For logging arguments a *tiny* bit more easily.
 
 ```js
