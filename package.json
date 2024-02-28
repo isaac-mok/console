@@ -1,6 +1,6 @@
 {
   "name": "@isaac-m/console",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Returns data passed into console logging functions",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
